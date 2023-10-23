@@ -1,4 +1,4 @@
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 480git px) {
   .container {
     max-width: 311px;
   }
@@ -30,11 +30,10 @@
   .section_two_theme p {
     font-size: 16px;
   }
-  .section_two_tele{
+  .section_two_tele {
     flex-wrap: wrap;
-   
   }
-  .section_two_tele .section_two_televizor{
+  .section_two_tele .section_two_televizor {
     max-width: 311px;
     height: 238px;
     margin: 0 auto;
@@ -44,45 +43,44 @@
     /* align-items: center;
     justify-content: center;
   display: flex; */
-  margin: 0 auto;
+    margin: 0 auto;
   }
-  .section_two_text .live{
+  .section_two_text .live {
     text-align: center;
     max-width: 311px;
   }
-  .theme_section_three{
+  .theme_section_three {
     max-width: 311px;
     padding-bottom: 65px;
   }
-  .theme_section_three h1{
+  .theme_section_three h1 {
     font-size: 28px;
   }
-  .theme_section_three p{
+  .theme_section_three p {
     font-size: 16px;
     padding-bottom: 64px;
   }
-  .plansheet{
+  .plansheet {
     background-image: url("./images/telfon.png");
     max-width: 311px;
     height: 180px;
-  
   }
-  .text_four h1{
+  .text_four h1 {
     font-size: 28px;
   }
-  .text_four p{
+  .text_four p {
     font-size: 16px;
   }
-  .boxs_four{
+  .boxs_four {
     flex-wrap: wrap;
   }
-  .boxs_four .box{
+  .boxs_four .box {
     padding-bottom: 56px;
   }
-  .box img{
+  .box img {
     padding-bottom: 40px;
   }
-  .box h3{
+  .box h3 {
     font-size: 24px;
   }
   .logos {
@@ -90,25 +88,24 @@
     gap: 57px;
     margin: 0 auto;
     padding: 79px;
-
   }
-  .ios_theme h1{
+  .ios_theme h1 {
     padding-top: 170px;
     font-size: 28px;
   }
-  .ios_theme p{
+  .ios_theme p {
     font-size: 16px;
   }
-  .footer_class{
+  .footer_class {
     flex-wrap: wrap;
     margin: 0 auto;
     gap: 45px;
     text-align: center;
     padding: 63px;
   }
-  .footer_class img{
- padding-left: 57px;
- padding-right: 57px;
+  .footer_class img {
+    padding-left: 57px;
+    padding-right: 57px;
     /* display: flex;
     justify-content: center;
     align-items: center; */
