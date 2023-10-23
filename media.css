@@ -64,6 +64,7 @@
     background-image: url("./images/telfon.png");
     max-width: 311px;
     height: 180px;
+    background-size: contain;
   }
   .text_four h1 {
     font-size: 28px;
