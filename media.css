@@ -106,8 +106,12 @@
   .footer_class img {
     padding-left: 57px;
     padding-right: 57px;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
+    padding-bottom: 47px;
+  }
+  .div {
+    flex-wrap: wrap;
+  }
+  .icons{
+    padding-left: 19px;
   }
 }
